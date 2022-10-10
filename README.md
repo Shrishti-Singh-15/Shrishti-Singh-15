@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrishti-Singh-15
 - 👀 I’m interested in FullStack Development.
-- 🌱 I’m currently learning JavaScript Framework and Back-end technologies.
+- 🌱 I’m currently learning JavaScript Framework and Back-end technologies, DevOps and AWS.
 - 💞️ I’m looking to collaborate on some interesting projects for upgrading and learning new skills and make the best use of it.
 - 📫 You can reach me through my email-ID - shrishtisingh.vns2001@gmail.com
 
